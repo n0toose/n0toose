@@ -1,1 +1,1 @@
-I'm trying to build a better tomorrow, one commit at a time. Most of my development activity takes place outside of GitHub. You can find some of my personal projects on my [Codeberg profile](https://codeberg.org/n0toose).
+You can find my newest projects on [Codeberg](https://codeberg.org/n0toose).
