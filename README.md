@@ -1,1 +1,1 @@
-Most of my personal projects have been moved to [Codeberg](https://codeberg.org/n0toose).
+Most of my personal projects were moved to [Codeberg](https://codeberg.org/n0toose).
