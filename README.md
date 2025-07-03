@@ -2,4 +2,4 @@ This account is used for contributing to projects hosted on [github.com](https:/
 
 On an unrelated note, I gave a talk titled ["I beg you, please make your own GitHub alternatives!"](https://media.ccc.de/v/gpn22-492-i-beg-you-please-make-your-own-github-alternatives-) a while ago.
 
-It is 59 minutes long.
+It is 59 minutes long. Because of it, I got called a "Greek Darth Vader" by a friend of mine and I am frankly *still* not over it.
